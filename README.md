@@ -29,16 +29,24 @@ object programacionConObjetos {
 ## Micaela Plata
 
 ```
-Hola a todos, mi nombre es Micaela Plata. Actualmente me encuentro cursando el 2do año de la carrera Tecnicatura en Programación.
-Decidí comenzar esta carrera porque veia que sabia muy poco (por no decir nada) del tema, es decir, por curiosidad y rapidamente me gusto todo lo que estaba aprendiendo.
-Ahora mi objetivo es poder transladar todo lo que aprendí en la universidad, cursos y por mi cuenta .. a lo laboral.
-Mientras tanto trabajo en acompañamiento terapeutico y debido a mi trabajo resido en Lomas de Zamora por lo que se me dificulta cursar en esta universidad, pero no quiero cambiarme, ya que le tome cariño a esta institución. Por eso aunque me tome más tiempo planeo terminar la carrera acá.
+Hola a todos, mi nombre es Micaela Plata. Actualmente me encuentro cursando el 2do año de la carrera
+Tecnicatura en Programación.
+Decidí comenzar esta carrera porque veia que sabia muy poco (por no decir nada) del tema, es decir,
+por curiosidad y rapidamente me gusto todo lo que estaba aprendiendo.
+Ahora mi objetivo es poder transladar todo lo que aprendí en la universidad, cursos ypor mi cuenta ..
+a lo laboral. Mientras tanto trabajo en acompañamiento terapeutico y debido a mi trabajo resido en
+Lomas de Zamora por lo que se me dificulta cursar en esta universidad, pero no quiero cambiarme,
+ya que le tome cariño a esta institución.
+Por eso aunque me tome más tiempo planeo terminar la carrera acá.
 
-Me gusta mucho la música .. casi no puedo estar sin escuchar algo de fondo, cantar y editar, ya sea videos, imagenes, audio, etc.. solia tener un canal de youtube donde subia mis proyectos.. pero por tema de tiempo lo tuve que dejar y mis subscriptores fueron cayendo :joy: .. Fue una linda etapa :wink:
+Me gusta mucho la música .. casi no puedo estar sin escuchar algo de fondo, cantar y
+editar, ya sea videos, imagenes, audio, etc.. solia tener un canal de youtube donde subia mis proyectos..
+pero por tema de tiempo lo tuve que dejar y mis subscriptores fueron cayendo :joy: ..
+Fue una linda etapa :wink:
 
 Les dejo una imagen que saque hoy ..
 
 ```
+![20230813_wW9Kij](https://github.com/obj1-unahur-2023s2/presentacionpersonal-Micaela-Plata/assets/134455169/875f3a3a-e8da-48c2-a7eb-63df0c31281a)
 
-(imagen.jpg)
 
