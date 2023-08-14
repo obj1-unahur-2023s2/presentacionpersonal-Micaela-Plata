@@ -25,10 +25,10 @@ object programacionConObjetos {
 * [Guía Rápida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
 * [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
 
-```
 
 ### Micaela Plata
 
+```
 Me gusta ...
 
 Me dedico a / Trabajo de ...
