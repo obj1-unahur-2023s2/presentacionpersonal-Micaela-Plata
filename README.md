@@ -27,7 +27,9 @@ object programacionConObjetos {
 
 ### Presentacion Personal
 
-Me llamo ...
+	`#0969DA` hh
+
+Me llamo #Micaela Plata
 
 Me gusta ...
 
