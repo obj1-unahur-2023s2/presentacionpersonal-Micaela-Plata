@@ -46,6 +46,6 @@ Fue una linda etapa :wink:
 Les dejo una imagen que saque hoy ..
 
 
-(https://github.com/obj1-unahur-2023s2/presentacionpersonal-Micaela-Plata/assets/134455169/875f3a3a-e8da-48c2-a7eb-63df0c31281a)
 
+ ![20230813](https://github.com/obj1-unahur-2023s2/presentacionpersonal-Micaela-Plata/assets/134455169/1b61641a-4f5f-4a38-8faf-21c388cbf02b)
 
