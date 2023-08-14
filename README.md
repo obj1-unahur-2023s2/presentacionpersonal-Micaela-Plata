@@ -26,7 +26,7 @@ object programacionConObjetos {
 * [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
 
 
-### Micaela Plata
+# Micaela Plata
 
 ```
 Me gusta ...
