@@ -25,9 +25,7 @@ object programacionConObjetos {
 * [Guía Rápida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
 * [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
 
-      `#RRGGBB` Presentacion Personal
-
-Me llamo  #Micaela Plata
+###Micaela Plata
 
 Me gusta ...
 
