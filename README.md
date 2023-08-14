@@ -39,8 +39,8 @@ ya que le tome cariño a esta institución.
 Por eso aunque me tome más tiempo planeo terminar la carrera acá.
 
 Me gusta mucho la música .. casi no puedo estar sin escuchar algo de fondo, cantar y
-editar, ya sea videos, imagenes, audio, etc.. solia tener un canal de youtube donde subia mis proyectos..
-pero por tema de tiempo lo tuve que dejar y mis subscriptores fueron cayendo :joy: ..
+editar, ya sea videos, imagenes, audio, etc.. solia tener un canal de Youtube donde subia mis proyectos..
+pero por tema de tiempo lo tuve que dejar y mis suscriptores fueron cayendo :joy: ..
 Fue una linda etapa :wink:
 
 Les dejo una imagen que saque hoy ..
