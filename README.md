@@ -28,7 +28,7 @@ object programacionConObjetos {
 
 ## Micaela Plata
 
-Hola a todos, mi nombre es Micaela Plata. Actualmente me encuentro cursando materias del 2do año de la carrera
+Hola a todos, mi nombre es Micaela Plata. Actualmente me encuentro cursando materias del 2do año de la 
 Tecnicatura en Programación.
 Decidí comenzar esta carrera porque veia que sabia muy poco (por no decir nada) del tema, es decir,
 por curiosidad y rapidamente me gusto todo lo que estaba aprendiendo.
