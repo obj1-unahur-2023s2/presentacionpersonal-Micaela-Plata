@@ -32,7 +32,7 @@ Hola a todos, mi nombre es Micaela Plata. Actualmente me encuentro cursando el 2
 Tecnicatura en Programación.
 Decidí comenzar esta carrera porque veia que sabia muy poco (por no decir nada) del tema, es decir,
 por curiosidad y rapidamente me gusto todo lo que estaba aprendiendo.
-Ahora mi objetivo es poder transladar todo lo que aprendí en la universidad, cursos ypor mi cuenta ..
+Ahora mi objetivo es poder transladar todo lo que aprendí en la universidad, cursos y por mi cuenta ..
 a lo laboral. Mientras tanto trabajo en acompañamiento terapeutico y debido a mi trabajo resido en
 Lomas de Zamora por lo que se me dificulta cursar en esta universidad, pero no quiero cambiarme,
 ya que le tome cariño a esta institución.
