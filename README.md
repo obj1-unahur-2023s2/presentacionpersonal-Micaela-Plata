@@ -28,7 +28,6 @@ object programacionConObjetos {
 
 ## Micaela Plata
 
-```
 Hola a todos, mi nombre es Micaela Plata. Actualmente me encuentro cursando el 2do año de la carrera
 Tecnicatura en Programación.
 Decidí comenzar esta carrera porque veia que sabia muy poco (por no decir nada) del tema, es decir,
@@ -46,7 +45,7 @@ Fue una linda etapa :wink:
 
 Les dejo una imagen que saque hoy ..
 
-```
-![20230813_wW9Kij](https://github.com/obj1-unahur-2023s2/presentacionpersonal-Micaela-Plata/assets/134455169/875f3a3a-e8da-48c2-a7eb-63df0c31281a)
+
+(https://github.com/obj1-unahur-2023s2/presentacionpersonal-Micaela-Plata/assets/134455169/875f3a3a-e8da-48c2-a7eb-63df0c31281a)
 
 
